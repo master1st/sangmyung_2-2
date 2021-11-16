@@ -1,0 +1,32 @@
+{
+    "id": "66B3B78C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1633675158731.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "DF_mobile",
+        "caption": "DF_mobile",
+        "totalObservations": "40",
+        "displayedObservations": "40",
+        "variables": "4",
+        "cacheKey": "36108E60",
+        "object": "DF_mobile",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_mobile&cache_key=36108E60&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2085217902488,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633675158731,
+    "read_only": false,
+    "read_only_alternatives": []
+}

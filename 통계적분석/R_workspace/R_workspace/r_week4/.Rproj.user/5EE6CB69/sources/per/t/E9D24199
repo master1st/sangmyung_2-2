@@ -1,0 +1,32 @@
+{
+    "id": "E9D24199",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1632392941570.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "DF_student_study",
+        "caption": "DF_student_study",
+        "totalObservations": 40,
+        "displayedObservations": 40,
+        "variables": 6,
+        "cacheKey": "D8526A44",
+        "object": "DF_student_study",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_student_study&cache_key=D8526A44&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2391842807360,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1632392941570,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "6C950A52",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634734053863.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "expression": "DF_mobile_battery",
+        "caption": "DF_mobile_battery",
+        "totalObservations": 40,
+        "displayedObservations": 40,
+        "variables": 4,
+        "cacheKey": "BA3AC0E1",
+        "object": "DF_mobile_battery",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_mobile_battery&cache_key=BA3AC0E1&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2946171666504,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634734053863,
+    "read_only": false,
+    "read_only_alternatives": []
+}

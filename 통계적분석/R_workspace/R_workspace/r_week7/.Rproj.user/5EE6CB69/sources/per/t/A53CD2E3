@@ -1,0 +1,32 @@
+{
+    "id": "A53CD2E3",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1633599145262.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "DF_student_exam",
+        "caption": "DF_student_exam",
+        "totalObservations": "35",
+        "displayedObservations": "35",
+        "variables": "2",
+        "cacheKey": "FC04876F",
+        "object": "DF_student_exam",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_student_exam&cache_key=FC04876F&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8026303377097781104,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633599145262,
+    "read_only": false,
+    "read_only_alternatives": []
+}

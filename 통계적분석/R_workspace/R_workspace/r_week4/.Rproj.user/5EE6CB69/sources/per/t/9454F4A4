@@ -1,0 +1,32 @@
+{
+    "id": "9454F4A4",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634794208122.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "expression": "DF_mobile_capacity",
+        "caption": "DF_mobile_capacity",
+        "totalObservations": 40,
+        "displayedObservations": 40,
+        "variables": 3,
+        "cacheKey": "46C93A1D",
+        "object": "DF_mobile_capacity",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_mobile_capacity&cache_key=46C93A1D&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3328260429870820705,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634794208122,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "6815CC4C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634793696284.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "DF_mobile_usage",
+        "caption": "DF_mobile_usage",
+        "totalObservations": 64,
+        "displayedObservations": 64,
+        "variables": 3,
+        "cacheKey": "F7FBC7FD",
+        "object": "DF_mobile_usage",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_mobile_usage&cache_key=F7FBC7FD&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2019029903550186496,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634793696284,
+    "read_only": false,
+    "read_only_alternatives": []
+}

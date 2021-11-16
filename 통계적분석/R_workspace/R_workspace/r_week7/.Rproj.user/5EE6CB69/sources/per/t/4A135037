@@ -1,0 +1,32 @@
+{
+    "id": "4A135037",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1633664896287.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "DF_coffee_location",
+        "caption": "DF_coffee_location",
+        "totalObservations": "31",
+        "displayedObservations": "31",
+        "variables": "4",
+        "cacheKey": "7717E48D",
+        "object": "DF_coffee_location",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_coffee_location&cache_key=7717E48D&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1808785481872,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633664896287,
+    "read_only": false,
+    "read_only_alternatives": []
+}

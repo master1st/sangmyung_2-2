@@ -1,0 +1,32 @@
+{
+    "id": "4A345CEB",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1633675720597.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "expression": "DF_battery_capacity",
+        "caption": "DF_battery_capacity",
+        "totalObservations": "10",
+        "displayedObservations": "10",
+        "variables": "3",
+        "cacheKey": "0642C12A",
+        "object": "DF_battery_capacity",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_battery_capacity&cache_key=0642C12A&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2087291894520,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633675720597,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "80FDA122",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1633666371555.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "DF_mobile_usage",
+        "caption": "DF_mobile_usage",
+        "totalObservations": 64,
+        "displayedObservations": 64,
+        "variables": 3,
+        "cacheKey": "6944F060",
+        "object": "DF_mobile_usage",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF_mobile_usage&cache_key=6944F060&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1808764678640,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633666371555,
+    "read_only": false,
+    "read_only_alternatives": []
+}
